@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(1, 143, 27, 0.7), rgba(57, 126, 1, 0.6)),url("img/Costa-Rica.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.logo {
+    height: 40px;
+    margin-top: 20px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #1d5e09 !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
